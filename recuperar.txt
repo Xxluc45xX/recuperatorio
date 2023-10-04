@@ -1,3 +1,3 @@
 1)A-Un repositorio local es un repositorio tuyo y remoto seria de muchas personas
-  B-
+  B-El comando: git remote add origin sirve para agregar un repositorio remoto al origen
   C-El issue sirve para trabajar en grupo o con amigos como que alguien haga el trabajo y otros ayuden
